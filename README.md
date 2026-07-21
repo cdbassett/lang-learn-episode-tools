@@ -1,5 +1,5 @@
 # lang-learn-episode-tools
-Python scripts to help process video files in episodic format with the end goal being language learning. It achieves this via mass creation of subtitle files for entire seasons that include the native language, the user's language, and optionally dictonary lookups from the native language to the user's languge). The initial purpose was for an English speaker learning Japanese (primarily anime) but most of the scripts could be used for any language.
+Python scripts to help process video files in episodic format with the end goal being language learning. It achieves this via mass creation of subtitle files for entire seasons that include the native language, the user's language, and optionally dictonary lookups from the native language to the user's languge. The initial purpose was for an English speaker learning Japanese (primarily anime) but most of the scripts could be used for any language.
 
 # Simple listing of scripts:
 
@@ -75,7 +75,3 @@ Python scripts to help process video files in episodic format with the end goal 
 
 ## RenVidInfo
 	rename metadata files to match new video name. assuming deleted old video, and want previous metadata filenames to match new file
-
-	rename metadata files to match new video name. assuming deleted old video, and want previous metadata filenames to match new file
-Wanted:
-	try to determine which subtitle file among those present best matches a subtitle file in another language
