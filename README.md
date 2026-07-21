@@ -3,7 +3,7 @@ Python scripts to help process video files in episodic format with the end goal 
 
 # Simple listing of scripts:
 
-## Bulk operations (over mutliple shows)
+## Bulk operations (over multiple shows)
 	RenameAnimeDirs
 		to use better overall folder names while preserving original name in a file
 	ReportMultiAudioStreamFolders
