@@ -1,6 +1,8 @@
 # lang-learn-episode-tools
 Python scripts to help process video files in episodic format with the end goal being language learning. It achieves this via mass creation of subtitle files for entire seasons that include the native language, the user's language, and optionally dictonary lookups from the native language to the user's languge. The initial purpose was for an English speaker learning Japanese (primarily anime) but most of the scripts could be used for any language.
 
+Many of the scripts use external tools, the main benefit of these scripts is that they understand the episode based on the filenames and process an entire season at a time.
+
 # Simple listing of scripts:
 
 ## Bulk operations (over multiple shows)
